@@ -1,4 +1,4 @@
-// PropertyList.cpp : implementation file
+﻿// PropertyList.cpp : implementation file
 //
 #include "StdAfx.h"
 #include "PropertyList.h"

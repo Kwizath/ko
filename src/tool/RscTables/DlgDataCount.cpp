@@ -1,4 +1,4 @@
-// DlgDataCount.cpp : implementation file
+﻿// DlgDataCount.cpp : implementation file
 //
 
 #include "StdAfx.h"

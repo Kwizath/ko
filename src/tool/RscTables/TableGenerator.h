@@ -1,4 +1,4 @@
-// TableGenerator.h: interface for the CTableGenerator class.
+﻿// TableGenerator.h: interface for the CTableGenerator class.
 //
 //////////////////////////////////////////////////////////////////////
 

@@ -1,4 +1,4 @@
-// RscTablesDlg.cpp : implementation file
+﻿// RscTablesDlg.cpp : implementation file
 //
 
 #include "StdAfx.h"
@@ -306,7 +306,7 @@ void CRscTablesDlg::OnClose() {
 }
 
 void CRscTablesDlg::UpdateInfo() {
-    // ȭ�鿡 ǥ��
+    // 화占썽에 표占쏙옙
     int iDataCount = m_Generator.DataTypeCount();
     for (int i = 0; i < iDataCount; ++i) {
         int iSel = -1;

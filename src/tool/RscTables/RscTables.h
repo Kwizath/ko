@@ -1,4 +1,4 @@
-// RscTables.h : main header file for the RSCTABLES application
+﻿// RscTables.h : main header file for the RSCTABLES application
 //
 
 #pragma once

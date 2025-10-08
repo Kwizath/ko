@@ -1,4 +1,4 @@
-// TableGenerator.cpp: implementation of the CTableGenerator class.
+﻿// TableGenerator.cpp: implementation of the CTableGenerator class.
 //
 //////////////////////////////////////////////////////////////////////
 
@@ -48,7 +48,7 @@ bool CTableGenerator::OpenSource(const std::string & szEnumFileName, const std::
         return false;
     }
 
-    // ���� �̸� ���?.
+    // 占쏙옙占쏙옙 占싱몌옙 占쏙옙占?.
     m_szEnmBasic = szEnumFileName;
     m_szTxtBasic = szTxtFileName;
 
