@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // DlgNewFileName.h : header file
 //

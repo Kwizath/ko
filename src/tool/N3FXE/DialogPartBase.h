@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // DialogPartBase.h : header file
 //

@@ -1,4 +1,4 @@
-// MagicType8Set.cpp : implementation file
+﻿// MagicType8Set.cpp : implementation file
 //
 
 #include "StdAfx.h"

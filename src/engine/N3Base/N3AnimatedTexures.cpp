@@ -1,4 +1,4 @@
-// N3AnimatedTexures.cpp: implementation of the CN3AnimatedTexures class.
+﻿// N3AnimatedTexures.cpp: implementation of the CN3AnimatedTexures class.
 //
 //////////////////////////////////////////////////////////////////////
 

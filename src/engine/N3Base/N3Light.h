@@ -1,4 +1,4 @@
-// N3Light.h: interface for the CN3Light class.
+﻿// N3Light.h: interface for the CN3Light class.
 //
 //////////////////////////////////////////////////////////////////////
 

@@ -1,4 +1,4 @@
-// N3Board.h: interface for the CN3Board class.
+﻿// N3Board.h: interface for the CN3Board class.
 //
 //////////////////////////////////////////////////////////////////////
 

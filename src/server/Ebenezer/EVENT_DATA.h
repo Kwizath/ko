@@ -1,4 +1,4 @@
-// EVENT_DATA.h: interface for the EVENT_DATA class.
+﻿// EVENT_DATA.h: interface for the EVENT_DATA class.
 //
 //////////////////////////////////////////////////////////////////////
 

@@ -1,4 +1,4 @@
-// N3Viewer.h : main header file for the N3VIEWER application
+﻿// N3Viewer.h : main header file for the N3VIEWER application
 //
 
 #pragma once

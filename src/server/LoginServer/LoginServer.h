@@ -1,4 +1,4 @@
-// LoginServer.h : main header file for the LoginServer application
+﻿// LoginServer.h : main header file for the LoginServer application
 //
 
 #pragma once

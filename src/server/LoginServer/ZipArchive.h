@@ -1,4 +1,4 @@
-// ZipArchive.h: interface for the CZipArchive class.
+﻿// ZipArchive.h: interface for the CZipArchive class.
 //
 //////////////////////////////////////////////////////////////////////
 //   ZipArchive 1.1, June 2000

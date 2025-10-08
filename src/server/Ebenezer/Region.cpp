@@ -1,4 +1,4 @@
-// Region.cpp: implementation of the CRegion class.
+﻿// Region.cpp: implementation of the CRegion class.
 //
 //////////////////////////////////////////////////////////////////////
 

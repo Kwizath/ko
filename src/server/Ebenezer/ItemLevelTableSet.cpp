@@ -1,4 +1,4 @@
-// ItemLevelTableSet.cpp : implementation file
+﻿// ItemLevelTableSet.cpp : implementation file
 //
 
 #include "StdAfx.h"

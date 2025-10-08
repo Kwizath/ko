@@ -1,4 +1,4 @@
-// N3Shape.cpp: implementation of the C3DObject class.
+﻿// N3Shape.cpp: implementation of the C3DObject class.
 //
 //////////////////////////////////////////////////////////////////////
 #include "StdAfx.h"

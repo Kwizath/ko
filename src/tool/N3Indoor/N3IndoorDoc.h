@@ -1,4 +1,4 @@
-// N3IndoorDoc.h : interface of the CN3IndoorDoc class
+﻿// N3IndoorDoc.h : interface of the CN3IndoorDoc class
 //
 /////////////////////////////////////////////////////////////////////////////
 

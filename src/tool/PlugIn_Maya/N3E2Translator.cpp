@@ -1,4 +1,4 @@
-// Copyright (C) 1998-2000 Alias | Wavefront, a division of Silicon Graphics Limited.
+﻿// Copyright (C) 1998-2000 Alias | Wavefront, a division of Silicon Graphics Limited.
 //
 // The information in this file is provided for the exclusive use of the
 // licensees of Alias | Wavefront.  Such users have the right to use, modify,

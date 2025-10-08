@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // BrushDlg.h : header file
 //

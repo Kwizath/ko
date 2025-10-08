@@ -1,4 +1,4 @@
-// N3Base.cpp: implementation of the CN3Base class.
+﻿// N3Base.cpp: implementation of the CN3Base class.
 //
 //////////////////////////////////////////////////////////////////////
 #include "StdAfx.h"

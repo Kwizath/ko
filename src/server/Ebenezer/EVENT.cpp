@@ -1,4 +1,4 @@
-// EVENT.cpp: implementation of the EVENT class.
+Ôªø// EVENT.cpp: implementation of the EVENT class.
 //
 //////////////////////////////////////////////////////////////////////
 
@@ -68,7 +68,7 @@ BOOL EVENT::LoadEvent(int zone) {
 
             t_index = 0;
 
-            if (buf[t_index] == ';' || buf[t_index] == '/') // ¡÷ºÆø° ¥Î«— √≥∏Æ
+            if (buf[t_index] == ';' || buf[t_index] == '/') // Ï£ºÏÑùÏóê ÎåÄÌïú Ï≤òÎ¶¨
             {
                 index = 0;
                 continue;

@@ -1,4 +1,4 @@
-// CoefficientSet.cpp : implementation file
+﻿// CoefficientSet.cpp : implementation file
 //
 
 #include "StdAfx.h"

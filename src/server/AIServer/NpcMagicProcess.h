@@ -1,4 +1,4 @@
-// NpcMagicProcess.h: interface for the CNpcMagicProcess class.
+﻿// NpcMagicProcess.h: interface for the CNpcMagicProcess class.
 //
 //////////////////////////////////////////////////////////////////////
 

@@ -1,4 +1,4 @@
-// BaseItemTableSet.cpp : implementation file
+﻿// BaseItemTableSet.cpp : implementation file
 //
 
 #include "StdAfx.h"

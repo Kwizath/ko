@@ -1,4 +1,4 @@
-// OptionDlg.cpp : implementation file
+Ôªø// OptionDlg.cpp : implementation file
 //
 
 #include "StdAfx.h"
@@ -120,7 +120,7 @@ BOOL COptionDlg::OnInitDialog() {
     SetIcon(m_hIcon, TRUE);  // Set big icon
     SetIcon(m_hIcon, FALSE); // Set small icon
 
-    // ∞¢¡æ ƒ¡∆Æ∑— √ ±‚»≠..
+    // Í∞ÅÏ¢Ö Ïª®Ìä∏Î°§ Ï¥àÍ∏∞Ìôî..
     m_SldEffectCount.SetRange(1000, 2000);
     m_SldViewDist.SetRange(256, 512);
     m_SldEffectSoundDist.SetRange(20, 48);

@@ -1,4 +1,4 @@
-// CharacterDataSet.cpp : implementation file
+﻿// CharacterDataSet.cpp : implementation file
 //
 
 #include "StdAfx.h"

@@ -1,4 +1,4 @@
-// Ini.cpp: implementation of the CIni class.
+ï»¿// Ini.cpp: implementation of the CIni class.
 //
 //////////////////////////////////////////////////////////////////////
 
@@ -16,7 +16,7 @@ CIni::~CIni() {}
 int CIni::GetProfileInt(const char * lpAppName, const char * lpKeyName, int nDefault) {
     if (m_szFileName[0] == '\0') {
         m_nError = 0X01;
-        strcpy(m_strError, "FileÀÌ SetµÇÁö ¾Ê¾Ò½À´Ï´Ù.");
+        strcpy(m_strError, "Fileì´ Setë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.");
         return -1;
     }
 
@@ -35,7 +35,7 @@ const char * CIni::GetProfileString(const char * lpAppName, const char * lpKeyNa
     static char retString[200] = "";
     if (m_szFileName[0] == '\0') {
         m_nError = 0X01;
-        strcpy(m_strError, "FileÀÌ SetµÇÁö ¾Ê¾Ò½À´Ï´Ù.");
+        strcpy(m_strError, "Fileì´ Setë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.");
         strcpy(retString, "");
         return retString;
     }
@@ -70,7 +70,7 @@ int CIni::SetProfileInt(const char * lpAppName, const char * lpKeyName, int nDef
     int nRet = -1;
     if (m_szFileName[0] == '\0') {
         m_nError = 0X01;
-        strcpy(m_strError, "FileÀÌ SetµÇÁö ¾Ê¾Ò½À´Ï´Ù.");
+        strcpy(m_strError, "Fileì´ Setë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.");
         return nRet;
     }
 
@@ -86,7 +86,7 @@ int CIni::SetProfileString(const char * lpAppName, const char * lpKeyName, const
     int nRet = -1;
     if (m_szFileName[0] == '\0') {
         m_nError = 0X01;
-        strcpy(m_strError, "FileÀÌ SetµÇÁö ¾Ê¾Ò½À´Ï´Ù.");
+        strcpy(m_strError, "Fileì´ Setë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.");
         return nRet;
     }
 

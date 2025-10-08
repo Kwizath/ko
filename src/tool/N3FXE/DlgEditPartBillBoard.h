@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // DlgEditPartBillBoard.h : header file
 //

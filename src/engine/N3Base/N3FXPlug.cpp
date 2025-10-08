@@ -1,4 +1,4 @@
-// N3FXPlug.cpp: implementation of the CN3FXPlug class.
+﻿// N3FXPlug.cpp: implementation of the CN3FXPlug class.
 //
 //////////////////////////////////////////////////////////////////////
 

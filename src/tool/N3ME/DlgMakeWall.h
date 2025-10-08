@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // DlgMakeWall.h : header file
 //

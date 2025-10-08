@@ -1,4 +1,4 @@
-// N3MeshNormal.h: interface for the C3DObject class.
+﻿// N3MeshNormal.h: interface for the C3DObject class.
 //
 //////////////////////////////////////////////////////////////////////
 

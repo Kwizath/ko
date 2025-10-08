@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // Dlg_River.h : header file
 //

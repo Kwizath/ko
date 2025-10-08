@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // DlgSaveNewTileSet.h : header file
 //

@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // DlgPercent.h : header file
 //

@@ -1,4 +1,4 @@
-// Aujard.h : main header file for the AUJARD application
+﻿// Aujard.h : main header file for the AUJARD application
 //
 
 #pragma once

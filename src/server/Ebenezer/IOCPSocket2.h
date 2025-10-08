@@ -1,4 +1,4 @@
-// IOCPSocket2.h: interface for the CIOCPSocket2 class.
+﻿// IOCPSocket2.h: interface for the CIOCPSocket2 class.
 //
 //////////////////////////////////////////////////////////////////////
 

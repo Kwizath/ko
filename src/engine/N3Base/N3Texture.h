@@ -1,4 +1,4 @@
-// N3Texture7.h: interface for the CN3Texture class.
+﻿// N3Texture7.h: interface for the CN3Texture class.
 //
 //////////////////////////////////////////////////////////////////////
 

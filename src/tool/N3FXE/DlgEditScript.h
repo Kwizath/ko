@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // DlgEditScript.h : header file
 //

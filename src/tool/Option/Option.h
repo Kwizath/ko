@@ -1,4 +1,4 @@
-// Option.h : main header file for the OPTION application
+﻿// Option.h : main header file for the OPTION application
 //
 
 #pragma once

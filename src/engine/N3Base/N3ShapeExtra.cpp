@@ -1,4 +1,4 @@
-// N3ShapeExtra.cpp: implementation of the CN3ShapeExtra class.
+﻿// N3ShapeExtra.cpp: implementation of the CN3ShapeExtra class.
 //
 //////////////////////////////////////////////////////////////////////
 

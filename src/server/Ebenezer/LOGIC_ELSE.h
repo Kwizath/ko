@@ -1,4 +1,4 @@
-// LOGIC_ELSE.h: interface for the LOGIC_ELSE class.
+﻿// LOGIC_ELSE.h: interface for the LOGIC_ELSE class.
 //
 //////////////////////////////////////////////////////////////////////
 

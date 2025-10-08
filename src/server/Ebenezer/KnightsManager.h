@@ -1,4 +1,4 @@
-// KnightsManager.h: interface for the CKnightsManager class.
+﻿// KnightsManager.h: interface for the CKnightsManager class.
 //
 //////////////////////////////////////////////////////////////////////
 

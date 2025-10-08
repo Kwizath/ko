@@ -1,4 +1,4 @@
-// N3FXE.h : main header file for the N3FXE application
+﻿// N3FXE.h : main header file for the N3FXE application
 //
 
 #pragma once

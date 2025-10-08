@@ -1,4 +1,4 @@
-// BitMapFile.cpp: implementation of the CBitMapFile class.
+﻿// BitMapFile.cpp: implementation of the CBitMapFile class.
 //
 //////////////////////////////////////////////////////////////////////
 

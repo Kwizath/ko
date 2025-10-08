@@ -1,4 +1,4 @@
-// SwappedDummy.h: interface for the CSwappedDummy class.
+﻿// SwappedDummy.h: interface for the CSwappedDummy class.
 //
 //////////////////////////////////////////////////////////////////////
 

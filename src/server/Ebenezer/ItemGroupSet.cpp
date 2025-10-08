@@ -1,4 +1,4 @@
-// ItemGroupSet.cpp : implementation file
+﻿// ItemGroupSet.cpp : implementation file
 //
 
 #include "StdAfx.h"

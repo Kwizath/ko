@@ -1,4 +1,4 @@
-// Ebenezer.h : main header file for the EBENEZER application
+﻿// Ebenezer.h : main header file for the EBENEZER application
 //
 
 #pragma once

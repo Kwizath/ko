@@ -1,4 +1,4 @@
-// MakeNpcPathPage.cpp : implementation file
+﻿// MakeNpcPathPage.cpp : implementation file
 //
 
 #include "StdAfx.h"

@@ -1,4 +1,4 @@
-// NpcPosSet.cpp : implementation file
+﻿// NpcPosSet.cpp : implementation file
 //
 
 #include "StdAfx.h"

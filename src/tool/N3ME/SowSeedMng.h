@@ -1,4 +1,4 @@
-// SowSeedMng.h: interface for the CSowSeedMng class.
+Ôªø// SowSeedMng.h: interface for the CSowSeedMng class.
 //
 //////////////////////////////////////////////////////////////////////
 
@@ -62,8 +62,8 @@ class CSowSeedMng {
 
     int Add_List_Count;
 
-    __VertexColor * m_pVertices; // ¡° πˆ∆€
-    int             m_nVC;       // ¡° ∞πºˆ
+    __VertexColor * m_pVertices; // Ï†ê Î≤ÑÌçº
+    int             m_nVC;       // Ï†ê Í∞ØÏàò
 
     bool  bActive;
     BOOL  Render_Grass;
@@ -75,7 +75,7 @@ class CSowSeedMng {
     void SetActive(BOOL flage);
 
     void Render(LPDIRECT3DDEVICE9 lpD3DDevice);
-    // Mouse ∏ﬁºº¡ˆ √≥∏Æ
+    // Mouse Î©îÏÑ∏ÏßÄ Ï≤òÎ¶¨
     BOOL MouseMessage(LPMSG pMsg);
     void Release();
     void Create_Grass(int NUm);

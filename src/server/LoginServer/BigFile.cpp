@@ -1,4 +1,4 @@
-// BigFile.cpp: implementation of the CBigFile class.
+﻿// BigFile.cpp: implementation of the CBigFile class.
 //
 //////////////////////////////////////////////////////////////////////
 

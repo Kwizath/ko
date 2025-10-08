@@ -1,4 +1,4 @@
-// ItemManager.cpp : Defines the class behaviors for the application.
+﻿// ItemManager.cpp : Defines the class behaviors for the application.
 //
 
 #include "StdAfx.h"

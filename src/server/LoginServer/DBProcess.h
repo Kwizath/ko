@@ -1,4 +1,4 @@
-// DBProcess.h: interface for the CDBProcess class.
+﻿// DBProcess.h: interface for the CDBProcess class.
 //
 //////////////////////////////////////////////////////////////////////
 

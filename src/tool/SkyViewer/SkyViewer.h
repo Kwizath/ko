@@ -1,4 +1,4 @@
-// SkyViewer.h : main header file for the SKYVIEWER application
+﻿// SkyViewer.h : main header file for the SKYVIEWER application
 //
 
 #pragma once

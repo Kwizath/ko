@@ -1,4 +1,4 @@
-// MagicTable.h: interface for the CMagicTable class.
+ï»¿// MagicTable.h: interface for the CMagicTable class.
 //
 //////////////////////////////////////////////////////////////////////
 
@@ -10,32 +10,32 @@ class CMagicTable {
     virtual ~CMagicTable();
 
   public:
-    short m_sNum;        // ¸ÅÁ÷ ¹øÈ£
-    char  m_strName[30]; // ¸ÅÁ÷ ÀÌ¸§
-    BYTE  m_bMoral;      // ¼ºÇâ
-    BYTE  m_bClass;      // »ç¿ë Å¬·¡½º
-    BYTE  m_bLevel;      // ·¹º§    Á¦ÇÑ
+    short m_sNum;        // ë§¤ì§ ë²ˆí˜¸
+    char  m_strName[30]; // ë§¤ì§ ì´ë¦„
+    BYTE  m_bMoral;      // ì„±í–¥
+    BYTE  m_bClass;      // ì‚¬ìš© í´ë˜ìŠ¤
+    BYTE  m_bLevel;      // ë ˆë²¨    ì œí•œ
     BYTE
-        m_bEffect; // È¿°ú(0:fire, 1:ice, 2:lightning, 3:magic, 4:disease, 5:poison, 6:light, 7:heal, 8:dagger, 9:sword, 10:mace, 11:spear, 12:polearm)
-    short m_sMp;   // ¼Ò¸ğ·®
-    short m_sHp;   // ¼Ò¸ğ·®
-    short m_sSt;   // ¼Ò¸ğ·®
-    int   m_iNItem;   // ÇÊ¿ä ¾ÆÀÌÅÛ(»ç¿ë½Ã)
-    short m_sDistant; // °¡½Ã°Å¸®
-    short m_sContime; // Áö¼Ó½Ã°£(ÃÊ)
-    short m_sRepeat;  // Àç»ç¿ë °¡´É ½Ã°£(ÃÊ)
-    BYTE  m_bExpect;  // ¼º°ø·ü
-    BYTE  m_bTarget;  // Å¸°Ù(0:Å¸°Ù, 1:ÀÚ½ÅÀÇ ¹İ°æ, 2:Å¸°Ù°ú ¹İ°æ, 3:ÁöÁ¡°ú ¹İ°æ, 4:¿ÀºêÁ§Æ®)
-    BYTE  m_bRange;   // ¹İ°æ
+        m_bEffect; // íš¨ê³¼(0:fire, 1:ice, 2:lightning, 3:magic, 4:disease, 5:poison, 6:light, 7:heal, 8:dagger, 9:sword, 10:mace, 11:spear, 12:polearm)
+    short m_sMp;   // ì†Œëª¨ëŸ‰
+    short m_sHp;   // ì†Œëª¨ëŸ‰
+    short m_sSt;   // ì†Œëª¨ëŸ‰
+    int   m_iNItem;   // í•„ìš” ì•„ì´í…œ(ì‚¬ìš©ì‹œ)
+    short m_sDistant; // ê°€ì‹œê±°ë¦¬
+    short m_sContime; // ì§€ì†ì‹œê°„(ì´ˆ)
+    short m_sRepeat;  // ì¬ì‚¬ìš© ê°€ëŠ¥ ì‹œê°„(ì´ˆ)
+    BYTE  m_bExpect;  // ì„±ê³µë¥ 
+    BYTE  m_bTarget;  // íƒ€ê²Ÿ(0:íƒ€ê²Ÿ, 1:ìì‹ ì˜ ë°˜ê²½, 2:íƒ€ê²Ÿê³¼ ë°˜ê²½, 3:ì§€ì ê³¼ ë°˜ê²½, 4:ì˜¤ë¸Œì íŠ¸)
+    BYTE  m_bRange;   // ë°˜ê²½
     BYTE
-        m_bType; // Å¸ÀÔ(0:°ø°İ, 1:´É·ÂÄ¡º¯È­, 2:ÄÜÆ®·ÑÀÌ»ó, 3:±×·¡ÇÈº¯È¯, 4:Ä³¸¯ÅÍ ÄÁÆ®·Ñ, 5:¼ø°£ÀÌµ¿/¼ÒÈ¯, 6:º¸È£¸·, 7:Äµ½½¸ÅÁ÷, 8:ÀüÅõ ½ºÅ¸ÀÏ)
-    BYTE m_bRate1;  // Àû¿ë·ü1(¼Ò¼ıÁ¡ 1ÀÚ¸®, Áï °è»ê½Ã 10À¸·Î ³ª´©¾î °è»êÇØ¾ß ÇÑ´Ù.)
-    BYTE m_bVar1;   // Àû¿ëº¯¼ö1
-    BYTE m_bLimit1; // ½ºÅ³ Á¦ÇÑÄ¡1
-    BYTE m_bRate2;  // Àû¿ë·ü2(¼Ò¼ıÁ¡ 1ÀÚ¸®, Áï °è»ê½Ã 10À¸·Î ³ª´©¾î °è»êÇØ¾ß ÇÑ´Ù.)
-    BYTE m_bVar2;   // Àû¿ëº¯¼ö2
-    BYTE m_bLimit2; // ½ºÅ³ Á¦ÇÑÄ¡2
-    BYTE m_bRate3;  // Àû¿ë·ü3(¼Ò¼ıÁ¡ 1ÀÚ¸®, Áï °è»ê½Ã 10À¸·Î ³ª´©¾î °è»êÇØ¾ß ÇÑ´Ù.)
-    BYTE m_bVar3;   // Àû¿ëº¯¼ö3
-    BYTE m_bLimit3; // ½ºÅ³ Á¦ÇÑÄ¡3
+        m_bType; // íƒ€ì…(0:ê³µê²©, 1:ëŠ¥ë ¥ì¹˜ë³€í™”, 2:ì½˜íŠ¸ë¡¤ì´ìƒ, 3:ê·¸ë˜í”½ë³€í™˜, 4:ìºë¦­í„° ì»¨íŠ¸ë¡¤, 5:ìˆœê°„ì´ë™/ì†Œí™˜, 6:ë³´í˜¸ë§‰, 7:ìº”ìŠ¬ë§¤ì§, 8:ì „íˆ¬ ìŠ¤íƒ€ì¼)
+    BYTE m_bRate1;  // ì ìš©ë¥ 1(ì†Œìˆ«ì  1ìë¦¬, ì¦‰ ê³„ì‚°ì‹œ 10ìœ¼ë¡œ ë‚˜ëˆ„ì–´ ê³„ì‚°í•´ì•¼ í•œë‹¤.)
+    BYTE m_bVar1;   // ì ìš©ë³€ìˆ˜1
+    BYTE m_bLimit1; // ìŠ¤í‚¬ ì œí•œì¹˜1
+    BYTE m_bRate2;  // ì ìš©ë¥ 2(ì†Œìˆ«ì  1ìë¦¬, ì¦‰ ê³„ì‚°ì‹œ 10ìœ¼ë¡œ ë‚˜ëˆ„ì–´ ê³„ì‚°í•´ì•¼ í•œë‹¤.)
+    BYTE m_bVar2;   // ì ìš©ë³€ìˆ˜2
+    BYTE m_bLimit2; // ìŠ¤í‚¬ ì œí•œì¹˜2
+    BYTE m_bRate3;  // ì ìš©ë¥ 3(ì†Œìˆ«ì  1ìë¦¬, ì¦‰ ê³„ì‚°ì‹œ 10ìœ¼ë¡œ ë‚˜ëˆ„ì–´ ê³„ì‚°í•´ì•¼ í•œë‹¤.)
+    BYTE m_bVar3;   // ì ìš©ë³€ìˆ˜3
+    BYTE m_bLimit3; // ìŠ¤í‚¬ ì œí•œì¹˜3
 };

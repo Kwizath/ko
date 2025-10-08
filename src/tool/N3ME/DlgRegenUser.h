@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // DlgRegenUser.h : header file
 //

@@ -1,4 +1,4 @@
-// stdafx.h : include file for standard system include files,
+ï»¿// stdafx.h : include file for standard system include files,
 //  or project specific include files that are used frequently, but
 //      are changed infrequently
 //
@@ -35,10 +35,10 @@
 //#include "Imm.h"
 //#include "N3Base/My_3DStruct.h"
 
-#include "packet.h" // packet Á¤ÀÇ
-#include "global.h" // Àü¿ª funtion
+#include "packet.h" // packet ì •ì˜
+#include "global.h" // ì „ì—­ funtion
 #include "define.h" // define
-//#include "extern.h"            // Àü¿ª °´Ã¼
+//#include "extern.h"            // ì „ì—­ ê°ì²´
 
 //{{AFX_INSERT_LOCATION}}
 // Microsoft Visual C++ will insert additional declarations immediately before the previous line.

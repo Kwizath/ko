@@ -1,4 +1,4 @@
-// N3Board.cpp: implementation of the CN3Board class.
+ï»¿// N3Board.cpp: implementation of the CN3Board class.
 //
 //////////////////////////////////////////////////////////////////////
 #include "StdAfx.h"
@@ -196,7 +196,7 @@ void CN3Board::LoadFromText(const std::string & szFName) {
     __ASSERT(result != EOF, "Invalid machine settings file");
     result = fscanf(stream, "Dest Blend = %d\n", &m_Mtl.dwDestBlend);
     __ASSERT(result != EOF, "Invalid machine settings file");
-    // Let¡¯s not decide on fog or culling options first.
+    // Letâ€™s not decide on fog or culling options first.
 
     result = fscanf(stream, "Texture Count = %d\n", &iCount);
     __ASSERT(result != EOF, "Invalid machine settings file");

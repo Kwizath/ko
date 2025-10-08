@@ -1,4 +1,4 @@
-// RNpcPosSet.cpp : implementation file
+﻿// RNpcPosSet.cpp : implementation file
 //
 
 #include "StdAfx.h"

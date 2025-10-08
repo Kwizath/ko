@@ -1,4 +1,4 @@
-// N3FXPartBillBoard.cpp: implementation of the CN3FXPartBillBoard class.
+Ôªø// N3FXPartBillBoard.cpp: implementation of the CN3FXPartBillBoard class.
 //
 //////////////////////////////////////////////////////////////////////
 
@@ -56,7 +56,7 @@ bool CN3FXPartBillBoard::ParseScript(char * szCommand, char * szBuff0, char * sz
         return true;
     }
 
-    //    ∫∏µÂ ∞πºˆ.
+    //    Î≥¥Îìú Í∞ØÏàò.
     if (lstrcmpi(szCommand, "<billboard_count>") == 0) {
         m_iNum = atoi(szBuff0);
         if (m_iNum > 0) {
@@ -65,7 +65,7 @@ bool CN3FXPartBillBoard::ParseScript(char * szCommand, char * szBuff0, char * sz
         return true;
     }
 
-    //    ∫∏µÂ ≈©±‚.
+    //    Î≥¥Îìú ÌÅ¨Í∏∞.
     if (lstrcmpi(szCommand, "<billboard_size>") == 0) {
         m_fSizeX = atof(szBuff0);
         m_fSizeY = atof(szBuff1);
@@ -283,7 +283,7 @@ bool CN3FXPartBillBoard::Tick() {
         }
     }
 
-    //¿ßƒ°ø° ∞¸«— ∆Ω∆Ω...m_vCurrPos
+    //ÏúÑÏπòÏóê Í¥ÄÌïú Ìã±Ìã±...m_vCurrPos
     m_vCurrVelocity += m_vAcceleration * CN3Base::s_fSecPerFrm;
     m_vCurrPos += m_vCurrVelocity * CN3Base::s_fSecPerFrm;
 
@@ -334,21 +334,21 @@ bool CN3FXPartBillBoard::IsDead() {
 
 //
 //    render...
-//    ¿œ¥‹¿∫ ∆ƒ∆º≈¨ «œ≥™æø ±◊∏Æ∞Ì....
-//    ≥™¡ﬂø°¥¬ ∞∞¿∫ ≈ÿΩ∫√ƒ æ≤¥¬ ∞ÕµÈ≥¢∏Æ π≠æÓº≠ ±◊∏Æ¿⁄...
+//    ÏùºÎã®ÏùÄ ÌååÌã∞ÌÅ¥ ÌïòÎÇòÏî© Í∑∏Î¶¨Í≥†....
+//    ÎÇòÏ§ëÏóêÎäî Í∞ôÏùÄ ÌÖçÏä§Ï≥ê Ïì∞Îäî Í≤ÉÎì§ÎÅºÎ¶¨ Î¨∂Ïñ¥ÏÑú Í∑∏Î¶¨Ïûê...
 //
 void CN3FXPartBillBoard::Render() {
     if (m_iTexIdx >= m_iNumTex) {
         return;
     }
 
-    //»∏¿¸...
+    //ÌöåÏ†Ñ...
     __Matrix44 mtxRotZ;
     mtxRotZ.Identity();
     mtxRotZ.RotationZ(m_fCurrLife * m_vRotVelocity.x);
 
     if (!m_bRoateOnlyY) {
-        //¿ßƒ°¡ˆ¡§ & ≥™∏¶ πŸ∂Û∫∏∞‘ º¬∆√..
+        //ÏúÑÏπòÏßÄÏ†ï & ÎÇòÎ•º Î∞îÎùºÎ≥¥Í≤å ÏÖãÌåÖ..
         __Matrix44 mtxVI;
         mtxVI = s_CameraData.mtxViewInverse;
         __Vector3 vpp;
@@ -425,7 +425,7 @@ void CN3FXPartBillBoard::Render() {
             }
         }
     } else {
-        //¿ßƒ°¡ˆ¡§ & ≥™∏¶ πŸ∂Û∫∏∞‘ º¬∆√..
+        //ÏúÑÏπòÏßÄÏ†ï & ÎÇòÎ•º Î∞îÎùºÎ≥¥Í≤å ÏÖãÌåÖ..
         __Vector3 AbsoluteCurrPos = Rotate2AbsolutePos(m_vCurrPos);
         __Vector3 vRadiusPos = s_CameraData.vEye - (AbsoluteCurrPos + m_pRefBundle->m_vPos);
 
@@ -512,7 +512,7 @@ void CN3FXPartBillBoard::Render() {
         }
     }
 
-    if (m_bAlpha) // Alpha ªÁøÎ
+    if (m_bAlpha) // Alpha ÏÇ¨Ïö©
     {
         __AlphaPrimitive * pAP = s_AlphaMgr.Add();
         if (pAP) {
@@ -540,7 +540,7 @@ void CN3FXPartBillBoard::Render() {
             pAP->pwIndices = NULL;
         }
 
-        return; // ∑ª¥ı∏µ æ»«œ¡ˆ∑’.
+        return; // Î†åÎçîÎßÅ ÏïàÌïòÏßÄÎ°±.
     } else {
         CN3Base::s_lpD3DDev->SetFVF(FVF_XYZCOLORT1);
 

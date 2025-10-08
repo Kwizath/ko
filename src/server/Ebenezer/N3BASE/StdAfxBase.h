@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // TODO: reference additional headers your program requires here
 #include "AfxVer_.h"

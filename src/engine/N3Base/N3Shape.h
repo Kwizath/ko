@@ -1,4 +1,4 @@
-// N3Shape.h: interface for the C3DObject class.
+ï»¿// N3Shape.h: interface for the C3DObject class.
 //
 //////////////////////////////////////////////////////////////////////
 
@@ -203,5 +203,5 @@ class CN3Shape : public CN3TransformCollision {
     void      PartialColRender(int iCount, int * piIndices);
     void      PartialGetCollision(int iIndex, __Vector3 & vec);
     bool      LoadTransformOnly(HANDLE hFile);
-    //    ~(By Ecli666 On 2002-08-06 ¿ÀÈÄ 4:33:04 )
+    //    ~(By Ecli666 On 2002-08-06 ì˜¤í›„ 4:33:04 )
 };

@@ -1,4 +1,4 @@
-// N3VMesh.h: interface for the C3DObject class.
+﻿// N3VMesh.h: interface for the C3DObject class.
 //
 //////////////////////////////////////////////////////////////////////
 

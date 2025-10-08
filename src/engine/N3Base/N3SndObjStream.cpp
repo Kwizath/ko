@@ -1,10 +1,10 @@
-//////////////////////////////////////////////////
+ï»¿//////////////////////////////////////////////////
 //    Commented By : Lynus
 //    Commented On 2001-04-12 Apr 8:42:02
 //
 //    CN3SndObjStream class (N3SndObjStream.h)
 //
-//    End Of Comment (By Lynus On 2001-04-12 ¿ÀÈÄ 8:42:02 )
+//    End Of Comment (By Lynus On 2001-04-12 ì˜¤í›„ 8:42:02 )
 //////////////////////////////////////////////////
 #include "StdAfx.h"
 #include "N3SndObjStream.h"
@@ -301,7 +301,7 @@ void CN3SndObjStream::Tick() {
 
 /*
 //
-// ¶È°°´Ù.
+// ë˜‘ê°™ë‹¤.
 //
 void CN3SndObjStream::Play(float delay, float fFadeInTime)
 {

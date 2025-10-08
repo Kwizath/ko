@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // ShapeTypeDlg.h : header file
 //

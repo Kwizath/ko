@@ -1,4 +1,4 @@
-// DBPool.h: interface for the CDBPool class.
+﻿// DBPool.h: interface for the CDBPool class.
 //
 //////////////////////////////////////////////////////////////////////
 

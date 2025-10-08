@@ -1,4 +1,4 @@
-// DlgSceneGraph.cpp : implementation file
+﻿// DlgSceneGraph.cpp : implementation file
 //
 
 #include "StdAfx.h"

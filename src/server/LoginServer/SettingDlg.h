@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // SettingDlg.h : header file
 //

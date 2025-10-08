@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // FloorDlg.h : header file
 //

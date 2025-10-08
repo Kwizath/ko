@@ -1,4 +1,4 @@
-// LevelUpTableSet.cpp : implementation file
+﻿// LevelUpTableSet.cpp : implementation file
 //
 
 #include "StdAfx.h"

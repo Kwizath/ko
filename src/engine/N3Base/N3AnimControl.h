@@ -1,4 +1,4 @@
-// N3AnimControl.h: interface for the CN3AnimControl class.
+﻿// N3AnimControl.h: interface for the CN3AnimControl class.
 //
 //////////////////////////////////////////////////////////////////////
 

@@ -1,4 +1,4 @@
-#include "StdAfx.h"
+ï»¿#include "StdAfx.h"
 #include "LocalInput.h"
 
 #include <mmsystem.h>
@@ -265,7 +265,7 @@ void CLocalInput::Tick(void) {
     if (err != DI_OK) {
         AcquireKeyboard();
     } else {
-        m_bNoKeyDown = TRUE; // At first, I couldn¡¯t press anything.
+        m_bNoKeyDown = TRUE; // At first, I couldnâ€™t press anything.
         for (int i = 0; i < NUMDIKEYS; i++) {
             if (!m_byOldKeys[i] && m_byCurKeys[i]) {
                 m_bKeyPresses[i] = TRUE; // The moment you press
@@ -299,7 +299,7 @@ void CLocalInput::Tick(void) {
     //            return;
     //        }
 
-    // ¸¶¿ì½º À§Ä¡ »õ·Î °¡Á®¿À±â
+    // ë§ˆìš°ìŠ¤ ìœ„ì¹˜ ìƒˆë¡œ ê°€ì ¸ì˜¤ê¸°
     //        m_ptCurMouse.x += DIMState.lX;
     //        m_ptCurMouse.y += DIMState.lY;
 

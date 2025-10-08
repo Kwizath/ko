@@ -1,4 +1,4 @@
-// NpcItemSet.cpp : implementation file
+﻿// NpcItemSet.cpp : implementation file
 //
 
 #include "StdAfx.h"

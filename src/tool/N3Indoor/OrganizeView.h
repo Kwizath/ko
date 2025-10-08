@@ -1,4 +1,4 @@
-#pragma once
+ï»¿#pragma once
 
 // OrganizeView.h : header file
 //
@@ -60,7 +60,7 @@ class COrganizeView : public CFormView {
     //..
     void OnCurserSelect(e_EditMode eED);
     void SelectVolumeByPick(CPortalVolume * pVol, bool bOne = true);
-    void SelectObjectByDragRect(RECT * pRect, BOOL bAdd); // µå·¡±× ÇØ¼­ °´Ã¼ ¼±ÅÃÇÏ±â
+    void SelectObjectByDragRect(RECT * pRect, BOOL bAdd); // ë“œë˜ê·¸ í•´ì„œ ê°ì²´ ì„ íƒí•˜ê¸°
 
     void TickRender();
 

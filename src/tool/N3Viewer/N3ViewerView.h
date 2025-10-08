@@ -1,4 +1,4 @@
-// N3ViewerView.h : interface of the CN3ViewerView class
+Ôªø// N3ViewerView.h : interface of the CN3ViewerView class
 //
 /////////////////////////////////////////////////////////////////////////////
 
@@ -25,7 +25,7 @@ class CN3ViewerView : public CView {
         __Vector3               vMin, vMax;
     };
     CN3Base * m_pSelObjs[MAX_SELECT];
-    D3DCOLOR  m_crBkg; // æ»∞≥∞° ≤®¡≥¿ª∂ß πË∞Êªˆ
+    D3DCOLOR  m_crBkg; // ÏïàÍ∞úÍ∞Ä Í∫ºÏ°åÏùÑÎïå Î∞∞Í≤ΩÏÉâ
 
   protected: // create from serialization only
     CN3ViewerView();

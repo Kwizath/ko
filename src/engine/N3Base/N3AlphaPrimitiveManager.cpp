@@ -1,4 +1,4 @@
-// N3AlphaPrimitiveManager.cpp: implementation of the CN3AlphaPrimitiveManager class.
+ï»¿// N3AlphaPrimitiveManager.cpp: implementation of the CN3AlphaPrimitiveManager class.
 //
 //////////////////////////////////////////////////////////////////////
 
@@ -248,7 +248,7 @@ void CN3AlphaPrimitiveManager::Render() {
                 RS_current.dwFog = FALSE;
                 CN3Base::s_lpD3DDev->SetRenderState(D3DRS_FOGENABLE, FALSE);
             }
-        } else { // Fog ¹«½Ã..
+        } else { // Fog ë¬´ì‹œ..
             if (TRUE != RS_current.dwFog) {
                 RS_current.dwFog = TRUE;
                 CN3Base::s_lpD3DDev->SetRenderState(D3DRS_FOGENABLE, TRUE);

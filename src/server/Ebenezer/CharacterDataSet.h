@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // CharacterDataSet.h : header file
 //

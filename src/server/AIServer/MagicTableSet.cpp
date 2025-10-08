@@ -1,4 +1,4 @@
-// MagicTableSet.cpp : implementation file
+﻿// MagicTableSet.cpp : implementation file
 //
 
 #include "StdAfx.h"

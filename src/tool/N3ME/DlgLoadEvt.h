@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // DlgLoadEvt.h : header file
 //

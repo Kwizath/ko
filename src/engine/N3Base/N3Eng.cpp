@@ -1,4 +1,4 @@
-// N3Eng.cpp: implementation of the CN3Eng class.
+﻿// N3Eng.cpp: implementation of the CN3Eng class.
 //
 //////////////////////////////////////////////////////////////////////
 #include "StdAfx.h"

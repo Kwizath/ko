@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // DlgEditWarp.h : header file
 //

@@ -1,4 +1,4 @@
-// MakeWeaponTableSet.cpp : implementation file
+﻿// MakeWeaponTableSet.cpp : implementation file
 //
 
 #include "StdAfx.h"

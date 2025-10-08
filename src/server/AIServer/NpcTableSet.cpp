@@ -1,4 +1,4 @@
-// NpcTableSet.cpp : implementation file
+﻿// NpcTableSet.cpp : implementation file
 //
 
 #include "StdAfx.h"

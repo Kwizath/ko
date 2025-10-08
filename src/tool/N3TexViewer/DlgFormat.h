@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // DlgFormat.h : header file
 //

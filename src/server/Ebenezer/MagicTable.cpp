@@ -1,4 +1,4 @@
-// MagicTable.cpp: implementation of the CMagicTable class.
+﻿// MagicTable.cpp: implementation of the CMagicTable class.
 //
 //////////////////////////////////////////////////////////////////////
 

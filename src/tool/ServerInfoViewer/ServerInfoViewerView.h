@@ -1,4 +1,4 @@
-// ServerInfoViewerView.h : interface of the CServerInfoViewerView class
+﻿// ServerInfoViewerView.h : interface of the CServerInfoViewerView class
 //
 /////////////////////////////////////////////////////////////////////////////
 

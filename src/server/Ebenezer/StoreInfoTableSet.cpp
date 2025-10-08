@@ -1,4 +1,4 @@
-// StoreInfoTableSet.cpp : implementation file
+﻿// StoreInfoTableSet.cpp : implementation file
 //
 
 #include "StdAfx.h"

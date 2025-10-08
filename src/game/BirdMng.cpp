@@ -1,4 +1,4 @@
-// BirdMng.cpp: implementation of the CBirdMng class.
+﻿// BirdMng.cpp: implementation of the CBirdMng class.
 //
 //////////////////////////////////////////////////////////////////////
 

@@ -1,4 +1,4 @@
-// N3Cloak.cpp: implementation of the CN3Cloak class.
+﻿// N3Cloak.cpp: implementation of the CN3Cloak class.
 //
 //////////////////////////////////////////////////////////////////////
 

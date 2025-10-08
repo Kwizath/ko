@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // DlgEditPartParticle.h : header file
 //

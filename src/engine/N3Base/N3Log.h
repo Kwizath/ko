@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // TODO: Note that SPDLOG_USE_STD_FORMAT can be removed once the project is configured via cmake
 // As it adds this preprocessor into the build configuration via target interface automatically.

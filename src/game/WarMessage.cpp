@@ -1,4 +1,4 @@
-// WarMessage.cpp: implementation of the CWarMessage class.
+﻿// WarMessage.cpp: implementation of the CWarMessage class.
 //
 //////////////////////////////////////////////////////////////////////
 

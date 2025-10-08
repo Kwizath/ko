@@ -1,4 +1,4 @@
-// DlgMakeWall.cpp : implementation file
+﻿// DlgMakeWall.cpp : implementation file
 //
 #include "StdAfx.h"
 #include "n3me.h"

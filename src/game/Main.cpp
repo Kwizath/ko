@@ -1,4 +1,4 @@
-// N3Client.cpp : Defines the entry point for the application.
+﻿// N3Client.cpp : Defines the entry point for the application.
 //
 #include "StdAfx.h"
 #include "Main.h"
@@ -433,7 +433,7 @@ int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLi
         CGameProcedure::s_szAccount = szAccountTmp; // Thick straw
         CGameProcedure::s_szPassWord = szPWTmp;
 
-        if (0 == lstrcmpi(szService, "$#$%&^@!#$%#@^%&#%$&^¿î¿µÆ??ü¿ë°Ô?Ó")) { // I was shocked
+        if (0 == lstrcmpi(szService, "$#$%&^@!#$%#@^%&#%$&^쩔챤쩔쨉횈??체쩔챘째횚?횙")) { // I was shocked
             CGameProcedure::s_bWindowed = true;
         } else {
             CGameProcedure::s_bWindowed = false;

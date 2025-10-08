@@ -1,4 +1,4 @@
-// AISocket.h: interface for the CAISocket class.
+﻿// AISocket.h: interface for the CAISocket class.
 //
 //////////////////////////////////////////////////////////////////////
 

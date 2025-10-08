@@ -1,4 +1,4 @@
-// N3Camera.cpp: implementation of the CN3Camera class.
+ï»¿// N3Camera.cpp: implementation of the CN3Camera class.
 //
 //////////////////////////////////////////////////////////////////////
 #include "StdAfx.h"
@@ -364,7 +364,7 @@ void CN3Camera::Apply() {
     s_lpD3DDev->SetTransform(D3DTS_PROJECTION, &m_Data.mtxProjection); // Projection Matrix Setting
     memcpy(&(CN3Base::s_CameraData), &m_Data, sizeof(__CameraData));   // Static Data Update...
 
-    // ¾È°³ »ö±ò ¸ÂÃß±â..
+    // ì•ˆê°œ ìƒ‰ê¹” ë§žì¶”ê¸°..
     s_lpD3DDev->SetRenderState(D3DRS_FOGENABLE, m_bFogUse);
     s_lpD3DDev->SetRenderState(D3DRS_FOGCOLOR, m_FogColor);
     // s_lpD3DDev->SetRenderState( D3DRS_FOGVERTEXMODE,  D3DFOG_EXP2);
@@ -398,7 +398,7 @@ void CN3Camera::Tick(float fFrm) {
     CN3Transform::Tick(fFrm);
 
     ////////////////////////////////////////////////////////////////////////
-    // View Matrix ¹× Projection Matrix Setting
+    // View Matrix ë° Projection Matrix Setting
 
     /////////////////////////////////////////////////////////////////////////////////////////////////////////
     //  __Vector3 m_vEye, m_vUp ->> m_vPos, m_vScale Replace with... Important!!

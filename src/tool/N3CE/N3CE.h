@@ -1,4 +1,4 @@
-// N3CE.h : main header file for the N3CE application
+﻿// N3CE.h : main header file for the N3CE application
 //
 
 #pragma once

@@ -1,4 +1,4 @@
-// LoginServerDlg.cpp : implementation file
+﻿// LoginServerDlg.cpp : implementation file
 //
 
 #include "StdAfx.h"

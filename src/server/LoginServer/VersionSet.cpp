@@ -1,4 +1,4 @@
-// VersionSet.cpp : implementation file
+﻿// VersionSet.cpp : implementation file
 //
 
 #include "StdAfx.h"

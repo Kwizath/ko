@@ -1,4 +1,4 @@
-// KscViewer.cpp : Defines the class behaviors for the application.
+﻿// KscViewer.cpp : Defines the class behaviors for the application.
 //
 
 #include "StdAfx.h"

@@ -1,4 +1,4 @@
-// N3TableBase.h: interface for the CN3TableBase class.
+﻿// N3TableBase.h: interface for the CN3TableBase class.
 //
 //////////////////////////////////////////////////////////////////////
 

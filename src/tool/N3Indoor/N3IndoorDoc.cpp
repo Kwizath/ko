@@ -1,4 +1,4 @@
-// N3IndoorDoc.cpp : implementation of the CN3IndoorDoc class
+﻿// N3IndoorDoc.cpp : implementation of the CN3IndoorDoc class
 //
 
 #include "StdAfx.h"

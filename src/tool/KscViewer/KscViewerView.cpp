@@ -1,4 +1,4 @@
-// KscViewerView.cpp : implementation of the CKscViewerView class
+﻿// KscViewerView.cpp : implementation of the CKscViewerView class
 //
 
 #include "StdAfx.h"

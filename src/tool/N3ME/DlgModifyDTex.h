@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // DlgModifyDTex.h : header file
 //

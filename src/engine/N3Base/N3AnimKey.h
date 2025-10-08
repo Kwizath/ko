@@ -1,4 +1,4 @@
-// AniKeyPos.h: interface for the CAniKeyPos class.
+﻿// AniKeyPos.h: interface for the CAniKeyPos class.
 //
 //////////////////////////////////////////////////////////////////////
 

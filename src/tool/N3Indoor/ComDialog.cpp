@@ -1,4 +1,4 @@
-// ComDialog.cpp : implementation file
+﻿// ComDialog.cpp : implementation file
 //
 
 #include "StdAfx.h"

@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // EventEditPage.h : header file
 //

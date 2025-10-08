@@ -1,4 +1,4 @@
-// FileHeader.h: interface for the CFileHeader class.
+﻿// FileHeader.h: interface for the CFileHeader class.
 //
 ////////////////////////////////////////////////////////////////////////////////
 //  Copyright (C) 2000 Tadeusz Dracz.

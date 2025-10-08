@@ -1,4 +1,4 @@
-// GameEvent.h: interface for the CGameEvent class.
+﻿// GameEvent.h: interface for the CGameEvent class.
 //
 //////////////////////////////////////////////////////////////////////
 

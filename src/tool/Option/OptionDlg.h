@@ -1,4 +1,4 @@
-// OptionDlg.h : header file
+﻿// OptionDlg.h : header file
 //
 
 #pragma once

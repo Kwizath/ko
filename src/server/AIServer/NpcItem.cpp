@@ -1,4 +1,4 @@
-// NpcItem.cpp: implementation of the CNpcItem class.
+﻿// NpcItem.cpp: implementation of the CNpcItem class.
 //
 //////////////////////////////////////////////////////////////////////
 

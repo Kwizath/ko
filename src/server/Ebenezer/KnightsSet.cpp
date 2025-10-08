@@ -1,4 +1,4 @@
-// KnightsSet.cpp : implementation file
+﻿// KnightsSet.cpp : implementation file
 //
 
 #include "StdAfx.h"

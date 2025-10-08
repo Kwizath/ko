@@ -1,4 +1,4 @@
-// N3BaseFileAccess.h: interface for the CN3BaseFileAccess class.
+﻿// N3BaseFileAccess.h: interface for the CN3BaseFileAccess class.
 //
 //////////////////////////////////////////////////////////////////////
 

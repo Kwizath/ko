@@ -1,4 +1,4 @@
-// FileHeader.cpp: implementation of the CFileHeader class.
+ï»¿// FileHeader.cpp: implementation of the CFileHeader class.
 //
 ////////////////////////////////////////////////////////////////////////////////
 //  Copyright (C) 2000 Tadeusz Dracz.
@@ -130,7 +130,7 @@ bool CFileHeader::ReadLocal(CZipStorage * pStorage, WORD & iLocExtrFieldSize, bo
         return false;
     }
 
-    // jeszcze mo¿naby porównaæ nazwy plików
+    // jeszcze moí“†aby por?na?nazwy plik?
 
     if (!bIsDataDescr /* || !pStorage->IsSpanMode()*/) {
         if (!CheckCrcAndSizes(buf + 14)) {

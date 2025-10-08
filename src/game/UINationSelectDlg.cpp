@@ -1,4 +1,4 @@
-// UINationSelectDlg.cpp: implementation of the CUINationSelectDlg class.
+﻿// UINationSelectDlg.cpp: implementation of the CUINationSelectDlg class.
 //
 //////////////////////////////////////////////////////////////////////
 

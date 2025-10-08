@@ -1,4 +1,4 @@
-// EnvironSoundPage.cpp : implementation file
+﻿// EnvironSoundPage.cpp : implementation file
 //
 
 #include "StdAfx.h"

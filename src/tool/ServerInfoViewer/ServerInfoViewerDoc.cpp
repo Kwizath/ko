@@ -1,4 +1,4 @@
-// ServerInfoViewerDoc.cpp : implementation of the CServerInfoViewerDoc class
+﻿// ServerInfoViewerDoc.cpp : implementation of the CServerInfoViewerDoc class
 //
 
 #include "StdAfx.h"

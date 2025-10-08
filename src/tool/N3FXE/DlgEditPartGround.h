@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // DlgEditPartGround.h : header file
 //

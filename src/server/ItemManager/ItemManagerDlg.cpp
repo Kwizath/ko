@@ -1,4 +1,4 @@
-// ItemManagerDlg.cpp : implementation file
+Ôªø// ItemManagerDlg.cpp : implementation file
 //
 
 #include "StdAfx.h"
@@ -107,7 +107,7 @@ BOOL CItemManagerDlg::OnInitDialog() {
     m_nItemLogFileDay = time.GetDay();
     m_nExpLogFileDay = time.GetDay();
 
-    m_LoggerRecvQueue.InitailizeMMF(MAX_PKTSIZE, MAX_COUNT, SMQ_ITEMLOGGER, FALSE); // Dispatcher ¿« Send Queue
+    m_LoggerRecvQueue.InitailizeMMF(MAX_PKTSIZE, MAX_COUNT, SMQ_ITEMLOGGER, FALSE); // Dispatcher Ïùò Send Queue
                                                                                     /*
     CString inipath;
     inipath.Format( "%s\\ItemDB.ini", GetProgPath() );
@@ -315,7 +315,7 @@ void CItemManagerDlg::ExpLogWrite(char * pBuf) {
 
 void CItemManagerDlg::OnExitBtn() {
     // TODO: Add your control notification handler code here
-    if (AfxMessageBox("¡¯¬• ≥°≥æ±Óø‰?", MB_YESNO) == IDYES) {
+    if (AfxMessageBox("ÏßÑÏßú ÎÅùÎÇºÍπåÏöî?", MB_YESNO) == IDYES) {
         CDialog::OnOK();
     }
 }

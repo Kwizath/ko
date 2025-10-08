@@ -1,4 +1,4 @@
-// PathFind.h: interface for the CPathFind class.
+﻿// PathFind.h: interface for the CPathFind class.
 //
 //////////////////////////////////////////////////////////////////////
 

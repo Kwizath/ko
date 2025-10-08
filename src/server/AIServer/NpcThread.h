@@ -1,4 +1,4 @@
-// NpcThread.h: interface for the CNpcThread class.
+﻿// NpcThread.h: interface for the CNpcThread class.
 //
 //////////////////////////////////////////////////////////////////////
 

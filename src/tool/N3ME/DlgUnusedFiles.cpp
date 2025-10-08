@@ -1,4 +1,4 @@
-// DlgUnusedFiles.cpp : implementation file
+ï»¿// DlgUnusedFiles.cpp : implementation file
 //
 
 #include "StdAfx.h"
@@ -46,7 +46,7 @@ void CDlgUnusedFiles::OnDelete() {
         return;
     }
 
-    int iYesNo = MessageBox("Áö¿ì½Ã°Ú½À´Ï±î?", "È®ÀÎ", MB_YESNO);
+    int iYesNo = MessageBox("ì§€ìš°ì‹œê² ìŠµë‹ˆê¹Œ?", "í™•ì¸", MB_YESNO);
 
     if (IDYES != iYesNo) {
         return;

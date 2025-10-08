@@ -1,4 +1,4 @@
-// N3BaseFileAccess.cpp: implementation of the CN3BaseFileAccess class.
+﻿// N3BaseFileAccess.cpp: implementation of the CN3BaseFileAccess class.
 //
 //////////////////////////////////////////////////////////////////////
 

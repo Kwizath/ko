@@ -1,4 +1,4 @@
-// Launcher.h : main header file for the LAUNCHER application
+﻿// Launcher.h : main header file for the LAUNCHER application
 //
 
 #pragma once

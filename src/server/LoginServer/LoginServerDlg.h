@@ -1,4 +1,4 @@
-// LoginServerDlg.h : header file
+﻿// LoginServerDlg.h : header file
 //
 
 #pragma once

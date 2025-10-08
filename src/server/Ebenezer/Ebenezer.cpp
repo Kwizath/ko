@@ -1,4 +1,4 @@
-// Ebenezer.cpp : Defines the class behaviors for the application.
+﻿// Ebenezer.cpp : Defines the class behaviors for the application.
 //
 
 #include "StdAfx.h"

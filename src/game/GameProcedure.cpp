@@ -1,4 +1,4 @@
-// GameProcedure.cpp: implementation of the CGameProcedure class.
+ï»¿// GameProcedure.cpp: implementation of the CGameProcedure class.
 //
 //////////////////////////////////////////////////////////////////////
 
@@ -173,7 +173,7 @@ void CGameProcedure::StaticMemberInit(HINSTANCE hInstance, HWND hWndMain, HWND h
     s_pSocket = new CAPISocket();
     s_pSocketSub = new CAPISocket();
 
-    // Ä¿¼­ ¸¸µé±â..
+    // ì»¤ì„œ ë§Œë“¤ê¸°..
     s_hCursorNormal = LoadCursor(hInstance, MAKEINTRESOURCE(IDC_CURSOR_NORMAL));
     s_hCursorNormal1 = LoadCursor(hInstance, MAKEINTRESOURCE(IDC_CURSOR_NORMAL1));
     s_hCursorClick = LoadCursor(hInstance, MAKEINTRESOURCE(IDC_CURSOR_CLICK));
@@ -211,7 +211,7 @@ void CGameProcedure::StaticMemberInit(HINSTANCE hInstance, HWND hWndMain, HWND h
     CN3UIBase::EnableTooltip(pTblUI->szToolTip);
 
     //////////////////////////////////////////////////////////////////////////////////////////
-    // °¢ ÇÁ·Î½ÃÀúµé »ı¼º
+    // ê° í”„ë¡œì‹œì €ë“¤ ìƒì„±
     s_pProcLogIn = new CGameProcLogIn();                     // Login procedure
     s_pProcNationSelect = new CGameProcNationSelect();       // Select country
     s_pProcCharacterSelect = new CGameProcCharacterSelect(); // Character selection

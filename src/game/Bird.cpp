@@ -1,4 +1,4 @@
-// Bird.cpp: implementation of the CBird class.
+ï»¿// Bird.cpp: implementation of the CBird class.
 //
 //////////////////////////////////////////////////////////////////////
 
@@ -136,7 +136,7 @@ int CBird::LoadBird(const std::string & szFN) {
 
     fclose(stream);
 
-    __ASSERT(m_pShape == NULL, "Bird memory leak °¡´É¼º");
+    __ASSERT(m_pShape == NULL, "Bird memory leak ê°€ëŠ¥ì„±");
     m_pShape = new CN3Shape;
     m_pShape->LoadFromFile(szRrcName);
 

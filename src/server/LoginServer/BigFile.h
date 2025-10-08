@@ -1,4 +1,4 @@
-// BigFile.h: interface for the CBigFile class.
+﻿// BigFile.h: interface for the CBigFile class.
 //
 //////////////////////////////////////////////////////////////////////
 

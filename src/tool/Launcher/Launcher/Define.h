@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 #define SM_EVENTS_RECEIVE 0
 #define SM_EVENTS_SEND    1

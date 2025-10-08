@@ -1,4 +1,4 @@
-// N3PMesh.cpp: implementation of the CN3PMesh class.
+Ôªø// N3PMesh.cpp: implementation of the CN3PMesh class.
 //
 //////////////////////////////////////////////////////////////////////
 #include "StdAfx.h"
@@ -167,7 +167,7 @@ bool CN3PMesh::Load(HANDLE hFile) {
     if (m_iNumCollapses > 0) {
         m_pCollapses = new __EdgeCollapse
             [m_iNumCollapses +
-             1]; // +1¿ª «— ¿Ã¿Ø : PMeshInstance::SplitOne() There are times when a pointer must inevitably point to a boundary line in a function.
+             1]; // +1ÏùÑ Ìïú Ïù¥Ïú† : PMeshInstance::SplitOne() There are times when a pointer must inevitably point to a boundary line in a function.
         ReadFile(hFile, m_pCollapses, m_iNumCollapses * sizeof(__EdgeCollapse), &dwNum, NULL);
         ZeroMemory(
             m_pCollapses + m_iNumCollapses,

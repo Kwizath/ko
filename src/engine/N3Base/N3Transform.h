@@ -1,4 +1,4 @@
-// N3Transform.h: interface for the CN3Transform class.
+﻿// N3Transform.h: interface for the CN3Transform class.
 //
 //////////////////////////////////////////////////////////////////////
 

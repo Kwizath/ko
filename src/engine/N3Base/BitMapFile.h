@@ -1,4 +1,4 @@
-// BitMapFile.h: interface for the CBitMapFile class.
+﻿// BitMapFile.h: interface for the CBitMapFile class.
 //
 //////////////////////////////////////////////////////////////////////
 

@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // DlgNewPart.h : header file
 //

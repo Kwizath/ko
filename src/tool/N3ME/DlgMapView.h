@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // DlgMapView.h : header file
 //

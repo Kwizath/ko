@@ -1,4 +1,4 @@
-// PortalFactory.cpp: implementation of the CPortalFactory class.
+﻿// PortalFactory.cpp: implementation of the CPortalFactory class.
 //
 //////////////////////////////////////////////////////////////////////
 

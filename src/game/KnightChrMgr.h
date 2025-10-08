@@ -1,4 +1,4 @@
-// KnightChrMgr.h: interface for the CKnightChrMgr class.
+﻿// KnightChrMgr.h: interface for the CKnightChrMgr class.
 //
 //////////////////////////////////////////////////////////////////////
 

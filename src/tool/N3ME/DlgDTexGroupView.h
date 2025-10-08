@@ -1,4 +1,4 @@
-#pragma once
+ï»¿#pragma once
 
 // DlgDTexGroupView.h : header file
 //
@@ -15,7 +15,7 @@ class CDlgDTexGroupView : public CDialog {
     CN3Texture * m_pPrevTex;
     RECT         m_PrevTexRect;
 
-    int m_iRadioState; //    0 ÀÚµ¿Âï±â 2 °­Á¦Âï±â 3 °­Á¦Ç®Å¸ÀÏ Âï±â
+    int m_iRadioState; //    0 ìë™ì°ê¸° 2 ê°•ì œì°ê¸° 3 ê°•ì œí’€íƒ€ì¼ ì°ê¸°
 
   public:
     CDTexGroupMng * m_pDTexGroupMng;

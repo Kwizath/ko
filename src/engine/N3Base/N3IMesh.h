@@ -1,4 +1,4 @@
-// N3MeshIndexed.h: interface for the CN3IMesh class.
+﻿// N3MeshIndexed.h: interface for the CN3IMesh class.
 //
 //////////////////////////////////////////////////////////////////////
 

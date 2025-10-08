@@ -1,4 +1,4 @@
-// SharedMem.h: interface for the CSharedMemQueue class.
+﻿// SharedMem.h: interface for the CSharedMemQueue class.
 //
 //////////////////////////////////////////////////////////////////////
 

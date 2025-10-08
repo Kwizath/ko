@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // DlgTerrainSize.h : header file
 //

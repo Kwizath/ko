@@ -1,4 +1,4 @@
-// DBAgent.h: interface for the CDBAgent class.
+﻿// DBAgent.h: interface for the CDBAgent class.
 //
 //////////////////////////////////////////////////////////////////////
 

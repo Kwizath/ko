@@ -1,4 +1,4 @@
-// KnightChrMgr.cpp: implementation of the CKnightChrMgr class.
+﻿// KnightChrMgr.cpp: implementation of the CKnightChrMgr class.
 //
 //////////////////////////////////////////////////////////////////////
 

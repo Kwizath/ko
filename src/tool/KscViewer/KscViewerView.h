@@ -1,4 +1,4 @@
-// KscViewerView.h : interface of the CKscViewerView class
+﻿// KscViewerView.h : interface of the CKscViewerView class
 //
 /////////////////////////////////////////////////////////////////////////////
 

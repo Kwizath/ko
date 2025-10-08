@@ -1,4 +1,4 @@
-// N3SndMgr.h: interface for the CN3SndMgr class.
+﻿// N3SndMgr.h: interface for the CN3SndMgr class.
 //
 //////////////////////////////////////////////////////////////////////
 

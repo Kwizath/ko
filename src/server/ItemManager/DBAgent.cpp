@@ -1,4 +1,4 @@
-// DBAgent.cpp: implementation of the CDBAgent class.
+﻿// DBAgent.cpp: implementation of the CDBAgent class.
 //
 //////////////////////////////////////////////////////////////////////
 

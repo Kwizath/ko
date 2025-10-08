@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // DlgUnusedFiles.h : header file
 //

@@ -1,4 +1,4 @@
-// N3Indoor.h : main header file for the N3INDOOR application
+﻿// N3Indoor.h : main header file for the N3INDOOR application
 //
 
 #pragma once

@@ -1,4 +1,4 @@
-// Aujard.cpp : Defines the class behaviors for the application.
+﻿// Aujard.cpp : Defines the class behaviors for the application.
 //
 
 #include "StdAfx.h"

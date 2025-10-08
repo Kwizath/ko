@@ -1,4 +1,4 @@
-// MagicProcess.h: interface for the CMagicProcess class.
+﻿// MagicProcess.h: interface for the CMagicProcess class.
 //
 //////////////////////////////////////////////////////////////////////
 

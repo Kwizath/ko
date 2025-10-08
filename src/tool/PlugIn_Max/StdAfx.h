@@ -1,13 +1,13 @@
-// stdafx.h : include file for standard system include files,
+Ôªø// stdafx.h : include file for standard system include files,
 //  or project specific include files that are used frequently, but
 //      are changed infrequently
 //
 
-// stl æµ∑¡∞Ì...
+// stl Ïì∏Î†§Í≥†...
 #pragma warning(disable : 4786)
 
 #pragma once
 
-// √ﬂ∞° «Ï¥ı..
+// Ï∂îÍ∞Ä Ìó§Îçî..
 #include <stdio.h>
 #include "N3Base/My_3DStruct.h"

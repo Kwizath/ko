@@ -1,4 +1,4 @@
-// BirdMng.h: interface for the CBirdMng class.
+﻿// BirdMng.h: interface for the CBirdMng class.
 //
 //////////////////////////////////////////////////////////////////////
 

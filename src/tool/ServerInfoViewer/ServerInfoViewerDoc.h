@@ -1,23 +1,23 @@
-// ServerInfoViewerDoc.h : interface of the CServerInfoViewerDoc class
+Ôªø// ServerInfoViewerDoc.h : interface of the CServerInfoViewerDoc class
 //
 /////////////////////////////////////////////////////////////////////////////
 
 #pragma once
 
 struct __CharacterSymbol {
-    __Vector3  vBoxes[5]; // ªÛ¿⁄∏¶ LineStrip ¿∏∑Œ ±◊∏∞¥Ÿ. 5
+    __Vector3  vBoxes[5]; // ÏÉÅÏûêÎ•º LineStrip ÏúºÎ°ú Í∑∏Î¶∞Îã§. 5
     __Vector3  vDirections[3];
     __Matrix44 mtxWorld;
-    D3DCOLOR   color;         // ªˆ..
+    D3DCOLOR   color;         // ÏÉâ..
     char       szID[64];      // ID
-    char       szRemark[128]; // ¡÷ºÆ???
+    char       szRemark[128]; // Ï£ºÏÑù???
 
     __CharacterSymbol() {
         __Matrix44 mtxTmp;
         mtxWorld.Identity();
-        color = 0xffffffff; // ±‚∫ª¿∫ »Úªˆ..
+        color = 0xffffffff; // Í∏∞Î≥∏ÏùÄ Ìù∞ÏÉâ..
         szID[0] = NULL;     // ID
-        szRemark[0] = NULL; // ¡÷ºÆ???
+        szRemark[0] = NULL; // Ï£ºÏÑù???
 
         float fRadius = 2.0f;
         vBoxes[0].Set(-fRadius, 0, fRadius);

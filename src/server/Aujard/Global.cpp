@@ -1,4 +1,4 @@
-#include "StdAfx.h"
+﻿#include "StdAfx.h"
 #include "define.h"
 
 void GetString(char * tBuf, char * sBuf, int len, int & index) {

@@ -1,4 +1,4 @@
-// N3FXParticle.cpp: implementation of the CN3FXParticle class.
+ï»¿// N3FXParticle.cpp: implementation of the CN3FXParticle class.
 //
 //////////////////////////////////////////////////////////////////////
 
@@ -60,7 +60,7 @@ bool CN3FXParticle::Tick() {
     }
 
     ///////////////////////////////////////////////
-    //ÇöÀçÃ³¸®..
+    //í˜„ìž¬ì²˜ë¦¬..
     __Quaternion qt;
     qt.RotationAxis(m_vAxis, m_fRot);
 
@@ -98,7 +98,7 @@ bool CN3FXParticle::Tick() {
     }
 
     ///////////////////////////////////////////////
-    //´ÙÀ½ÁØºñ..
+    //ë‹¤ìŒì¤€ë¹„..
     m_vLcPos += m_vVelocity * CN3Base::s_fSecPerFrm;
 
     if (m_pRefParent->m_bChangeColor) {

@@ -1,4 +1,4 @@
-// N3TransformCollision.cpp: implementation of the CN3TransformCollision class.
+﻿// N3TransformCollision.cpp: implementation of the CN3TransformCollision class.
 //
 //////////////////////////////////////////////////////////////////////
 #include "StdAfx.h"

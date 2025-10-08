@@ -1,4 +1,4 @@
-// SharedMem.cpp: implementation of the CSharedMemQueue class.
+﻿// SharedMem.cpp: implementation of the CSharedMemQueue class.
 //
 //////////////////////////////////////////////////////////////////////
 

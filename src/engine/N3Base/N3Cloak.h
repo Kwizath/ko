@@ -1,4 +1,4 @@
-// N3Cloak.h: interface for the CN3Cloak class.
+﻿// N3Cloak.h: interface for the CN3Cloak class.
 //
 //////////////////////////////////////////////////////////////////////
 

@@ -1,4 +1,4 @@
-// PartyUser.cpp: implementation of the CPartyUser class.
+﻿// PartyUser.cpp: implementation of the CPartyUser class.
 //
 //////////////////////////////////////////////////////////////////////
 

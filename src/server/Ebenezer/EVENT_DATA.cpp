@@ -1,4 +1,4 @@
-// EVENT_DATA.cpp: implementation of the EVENT_DATA class.
+﻿// EVENT_DATA.cpp: implementation of the EVENT_DATA class.
 //
 //////////////////////////////////////////////////////////////////////
 

@@ -1,4 +1,4 @@
-// N3Texture.cpp: implementation of the CN3Texture class.
+Ôªø// N3Texture.cpp: implementation of the CN3Texture class.
 //
 //////////////////////////////////////////////////////////////////////
 #include "StdAfx.h"
@@ -98,7 +98,7 @@ bool CN3Texture::Create(int nWidth, int nHeight, D3DFORMAT Format, BOOL bGenerat
         nHeight = CN3Base::s_DevCaps.MaxTextureHeight;
     }
 
-    // «Ï¥ı ºº∆√..
+    // Ìó§Îçî ÏÑ∏ÌåÖ..
     memset(&m_Header, 0, sizeof(m_Header));
 
     // MipMap step decision..

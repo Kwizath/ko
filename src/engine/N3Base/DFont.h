@@ -1,4 +1,4 @@
-// DFont.h: interface for the CDFont class.
+﻿// DFont.h: interface for the CDFont class.
 // Usage and usage restrictions
 // 1. The SetText function requires a lot of calculations. (Call it only when changing the text (important))
 // 2. The DrawText function draws on a 2d plane.

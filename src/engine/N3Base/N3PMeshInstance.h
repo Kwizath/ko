@@ -1,4 +1,4 @@
-// N3PMeshInstance.h: interface for the CN3PMeshInstance class.
+﻿// N3PMeshInstance.h: interface for the CN3PMeshInstance class.
 //
 //////////////////////////////////////////////////////////////////////
 

@@ -1,4 +1,4 @@
-// RscTablesDlg.h : header file
+﻿// RscTablesDlg.h : header file
 //
 
 #pragma once

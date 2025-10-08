@@ -1,4 +1,4 @@
-// CircularBuffer.cpp: implementation of the CCircularBuffer class.
+﻿// CircularBuffer.cpp: implementation of the CCircularBuffer class.
 //
 //////////////////////////////////////////////////////////////////////
 

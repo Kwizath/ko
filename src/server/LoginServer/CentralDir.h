@@ -1,4 +1,4 @@
-// CentralDir.h: interface for the CCentralDir class.
+﻿// CentralDir.h: interface for the CCentralDir class.
 //
 ////////////////////////////////////////////////////////////////////////////////
 //  Copyright (C) 2000 Tadeusz Dracz.

@@ -1,4 +1,4 @@
-// UIE.h : main header file for the UIE application
+﻿// UIE.h : main header file for the UIE application
 //
 
 #pragma once

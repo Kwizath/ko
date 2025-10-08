@@ -1,4 +1,4 @@
-// PreFix2TableSet.cpp : implementation file
+﻿// PreFix2TableSet.cpp : implementation file
 //
 
 #include "StdAfx.h"

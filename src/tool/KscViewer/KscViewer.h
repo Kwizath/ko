@@ -1,4 +1,4 @@
-// KscViewer.h : main header file for the KSCVIEWER application
+﻿// KscViewer.h : main header file for the KSCVIEWER application
 //
 
 #pragma once

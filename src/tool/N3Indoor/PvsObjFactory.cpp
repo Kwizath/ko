@@ -1,4 +1,4 @@
-// PvsBase.cpp: implementation of the CPvsBase class.
+﻿// PvsBase.cpp: implementation of the CPvsBase class.
 //
 //////////////////////////////////////////////////////////////////////
 

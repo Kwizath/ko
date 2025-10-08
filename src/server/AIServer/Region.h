@@ -1,4 +1,4 @@
-// Region.h: interface for the CRegion class.
+﻿// Region.h: interface for the CRegion class.
 //
 //////////////////////////////////////////////////////////////////////
 

@@ -1,4 +1,4 @@
-// Jpeg.cpp: implementation of the CJpeg class.
+﻿// Jpeg.cpp: implementation of the CJpeg class.
 //
 //////////////////////////////////////////////////////////////////////
 

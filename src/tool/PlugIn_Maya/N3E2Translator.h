@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 /*==============================================*/
 /* Header file for the VRML2.0 translator    */

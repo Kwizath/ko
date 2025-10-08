@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // DlgDelDTex.h : header file
 //

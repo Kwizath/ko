@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // ToolDlg.h : header file
 //

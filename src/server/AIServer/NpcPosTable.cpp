@@ -1,4 +1,4 @@
-// NpcPosTable.cpp: implementation of the CNpcPosTable class.
+﻿// NpcPosTable.cpp: implementation of the CNpcPosTable class.
 //
 //////////////////////////////////////////////////////////////////////
 

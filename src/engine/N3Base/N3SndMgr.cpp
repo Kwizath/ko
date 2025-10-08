@@ -1,4 +1,4 @@
-// N3SndMgr.cpp: implementation of the CN3SndMgr class.
+﻿// N3SndMgr.cpp: implementation of the CN3SndMgr class.
 //
 //////////////////////////////////////////////////////////////////////
 #include "StdAfx.h"
@@ -196,7 +196,7 @@ void CN3SndMgr::Tick() {
 }
 
 //
-//    Obj�ϳ� ��ȿȭ..
+//    Obj하나 무효화..
 void CN3SndMgr::ReleaseObj(CN3SndObj ** ppObj) {
     if (NULL == ppObj || NULL == *ppObj) {
         return;
@@ -227,7 +227,7 @@ void CN3SndMgr::ReleaseObj(CN3SndObj ** ppObj) {
     *ppObj = NULL; // Makes only the pointer null.
 
     /*    itm_Snd it = m_SndObjSrcs.find(szFN);
-    if(it != m_SndObjSrcs.end()) // ã�Ҵ�..
+    if(it != m_SndObjSrcs.end()) // 찾았다..
     {
         CN3SndObj* pObj = it->second;
         delete pObj;

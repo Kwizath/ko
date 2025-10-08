@@ -1,4 +1,4 @@
-// CDlgBrowsePath.h : header file
+﻿// CDlgBrowsePath.h : header file
 //
 
 #pragma once

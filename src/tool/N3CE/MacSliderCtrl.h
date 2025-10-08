@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // MacSliderCtrl.h : header file
 //

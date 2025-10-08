@@ -1,4 +1,4 @@
-// N3JpegFile.h: interface for the CN3JpegFile class.
+﻿// N3JpegFile.h: interface for the CN3JpegFile class.
 //
 //////////////////////////////////////////////////////////////////////
 

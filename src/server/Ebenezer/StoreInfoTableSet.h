@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // StoreInfoTableSet.h : header file
 //

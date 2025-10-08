@@ -1,4 +1,4 @@
-// N3FXPMeshInstance.h: interface for the CN3FXPMeshInstance class.
+Ôªø// N3FXPMeshInstance.h: interface for the CN3FXPMeshInstance class.
 //
 //////////////////////////////////////////////////////////////////////
 
@@ -25,7 +25,7 @@ class CN3FXPMeshInstance : public CN3Base {
     int m_iNumIndices;
     int m_iNumVertices;
 
-    CN3PMesh::__EdgeCollapse * m_pCollapseUpTo; // ¬¸¡∂ ∆˜¿Œ≈Õ
+    CN3PMesh::__EdgeCollapse * m_pCollapseUpTo; // Ï∞∏Ï°∞ Ìè¨Ïù∏ÌÑ∞
 
     // A pointer to the original mesh. This is where you'll find the vertex data (which
     // is invariant between PMRInstance's)

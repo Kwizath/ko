@@ -1,4 +1,4 @@
-// ItemManagerDlg.h : header file
+﻿// ItemManagerDlg.h : header file
 //
 
 #pragma once

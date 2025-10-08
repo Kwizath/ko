@@ -1,4 +1,4 @@
-// LogWriter.cpp: implementation of the CLogWriter class.
+﻿// LogWriter.cpp: implementation of the CLogWriter class.
 //
 //////////////////////////////////////////////////////////////////////
 

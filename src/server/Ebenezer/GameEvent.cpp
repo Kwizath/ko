@@ -1,4 +1,4 @@
-// GameEvent.cpp: implementation of the CGameEvent class.
+﻿// GameEvent.cpp: implementation of the CGameEvent class.
 //
 //////////////////////////////////////////////////////////////////////
 

@@ -1,4 +1,4 @@
-// N3ShapeExtra.h: interface for the CN3ShapeExtra class.
+﻿// N3ShapeExtra.h: interface for the CN3ShapeExtra class.
 //
 //////////////////////////////////////////////////////////////////////
 

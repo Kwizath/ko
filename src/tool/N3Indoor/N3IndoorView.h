@@ -1,4 +1,4 @@
-// N3IndoorView.h : interface of the CN3IndoorView class
+ï»¿// N3IndoorView.h : interface of the CN3IndoorView class
 //
 /////////////////////////////////////////////////////////////////////////////
 
@@ -7,7 +7,7 @@
 class CN3IndoorView : public CView {
     bool m_bSwapped;
     bool m_bValid;
-    RECT m_rcSelDrag; // µå·¡±× ¿µ¿ª
+    RECT m_rcSelDrag; // ë“œë˜ê·¸ ì˜ì—­
 
     BOOL CustomCameraMove(MSG * pMsg);
     BOOL ExecuteModeMsgFilter(MSG * pMsg);

@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 #include "BtnST.h"
 #include "MyTabCtrl.h"

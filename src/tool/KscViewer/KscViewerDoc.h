@@ -1,4 +1,4 @@
-// KscViewerDoc.h : interface of the CKscViewerDoc class
+﻿// KscViewerDoc.h : interface of the CKscViewerDoc class
 //
 /////////////////////////////////////////////////////////////////////////////
 

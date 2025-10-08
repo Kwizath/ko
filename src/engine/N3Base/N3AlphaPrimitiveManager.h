@@ -1,4 +1,4 @@
-// N3AlphaPrimitiveManager.h: interface for the CN3AlphaPrimitiveManager class.
+﻿// N3AlphaPrimitiveManager.h: interface for the CN3AlphaPrimitiveManager class.
 //
 //////////////////////////////////////////////////////////////////////
 

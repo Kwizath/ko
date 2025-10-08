@@ -1,4 +1,4 @@
-// DBPool.cpp: implementation of the CDBPool class.
+﻿// DBPool.cpp: implementation of the CDBPool class.
 //
 //////////////////////////////////////////////////////////////////////
 

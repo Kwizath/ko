@@ -1,4 +1,4 @@
-// DFont.cpp: implementation of the CDFont class.
+ï»¿// DFont.cpp: implementation of the CDFont class.
 //
 //////////////////////////////////////////////////////////////////////
 #include "StdAfx.h"
@@ -20,7 +20,7 @@ CDFont::CDFont(const std::string & szFontName, DWORD dwHeight, DWORD dwFlags) {
         s_hDC = CreateCompatibleDC(NULL);
         // Create a temporary font and get s_hFontOld.
         HFONT hFont = CreateFont(0, 0, 0, 0, 0, FALSE, FALSE, FALSE, DEFAULT_CHARSET, OUT_DEFAULT_PRECIS,
-                                 CLIP_DEFAULT_PRECIS, ANTIALIASED_QUALITY, VARIABLE_PITCH, "±¼¸²");
+                                 CLIP_DEFAULT_PRECIS, ANTIALIASED_QUALITY, VARIABLE_PITCH, "êµ´ë¦¼");
         if (hFont) {
             s_hFontOld = (HFONT)(SelectObject(s_hDC, hFont));
             SelectObject(s_hDC, s_hFontOld);
@@ -211,7 +211,7 @@ HRESULT CDFont::SetText(const std::string & szText, DWORD dwFlags) {
                 iTempCount += 2;
                 iCount += 2;
             }
-        } else { // 1BYTE ¹®ÀÚ
+        } else { // 1BYTE ë¬¸ìž
             memcpy(&(szTemp[iTempCount]), &(szText[iCount]), 1);
             ++iTempCount;
             ++iCount;
@@ -233,7 +233,7 @@ HRESULT CDFont::SetText(const std::string & szText, DWORD dwFlags) {
     int iExtent = size.cx * size.cy;
 
     SIZE size2; // Size of half letters in Hangul...
-    GetTextExtentPoint32(s_hDC, "Áø", lstrlen("Áø"), &size2);
+    GetTextExtentPoint32(s_hDC, "ì§„", lstrlen("ì§„"), &size2);
     size2.cx = ((size2.cx / 2) + (size2.cx % 2));
 
     int iTexSizes[7] = {32, 64, 128, 256, 512, 1024, 2048};
@@ -1233,7 +1233,7 @@ void CDFont::AddToAlphaManager(DWORD dwColor, float fDist, __Matrix44 & mtxWorld
         dwFVF = FVF_TRANSFORMED;
         dwFVFSize = sizeof(__VertexTransformed);
 
-        // À§Ä¡ »ö Á¶Á¤
+        // ìœ„ì¹˜ ìƒ‰ ì¡°ì •
         D3DXVECTOR2 vDiff = D3DXVECTOR2(mtxWorld._41, mtxWorld._42) - m_PrevLeftTop;
         if (fabs(vDiff.x) > 0.5f || fabs(vDiff.y) > 0.5f || dwColor != m_dwFontColor) {
             // lock vertex buffer

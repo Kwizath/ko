@@ -1,4 +1,4 @@
-// GameBase.cpp: implementation of the CGameBase class.
+Ôªø// GameBase.cpp: implementation of the CGameBase class.
 //
 //////////////////////////////////////////////////////////////////////
 
@@ -75,7 +75,7 @@ void _FormatCoins(int64_t nCoins, std::string & szCoins) {
 
 void CGameBase::StaticMemberInit() {
     //////////////////////////////////////////////////////////////////////////////////////////
-    // Resource Table ∑Œµ˘ π◊ √ ±‚»≠...
+    // Resource Table Î°úÎî© Î∞è Ï¥àÍ∏∞Ìôî...
     s_pTbl_Zones = new CN3TableBase<__TABLE_ZONE>;  // Table for Zone Information
     s_pTbl_UI = new CN3TableBase<__TABLE_UI_RESRC>; // UI Resource File Table loading
     s_pTbl_UPC_Looks =
@@ -552,7 +552,7 @@ D3DCOLOR CGameBase::GetIDColorByLevelDifference(int iLevelDiff) {
     // White: -1 ? player  ? 1
     // Blue: 2 levels lower than the player -2, -3, -4
     // Green: -5, -6, -7 than the player
-    // Light blue: -8 over player, °¶ (no experience gained)
+    // Light blue: -8 over player, ‚Ä¶ (no experience gained)
 
     D3DCOLOR crID = 0xffffffff;
     if (iLevelDiff >= 8) {

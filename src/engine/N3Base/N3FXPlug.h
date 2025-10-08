@@ -1,4 +1,4 @@
-// N3FXPlug.h: interface for the CN3FXPlug class.
+﻿// N3FXPlug.h: interface for the CN3FXPlug class.
 //
 //////////////////////////////////////////////////////////////////////
 

@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // MagicType5Set.h : header file
 //

@@ -1,4 +1,4 @@
-// N3Light.cpp: implementation of the CN3Light class.
+ï»¿// N3Light.cpp: implementation of the CN3Light class.
 //
 //////////////////////////////////////////////////////////////////////
 
@@ -27,7 +27,7 @@ bool CN3Light::Load(HANDLE hFile) {
     DWORD dwRWC;
     ReadFile(hFile, &m_Data, sizeof(m_Data), &dwRWC, NULL); // Light settings.
 
-    __ASSERT(m_Data.nNumber >= 0 && m_Data.nNumber < 8, "Light Loading Warning - Light ¹øÈ£°¡ ¹üÀ§¸¦ ¹ş¾î³µ½À´Ï´Ù.");
+    __ASSERT(m_Data.nNumber >= 0 && m_Data.nNumber < 8, "Light Loading Warning - Light ë²ˆí˜¸ê°€ ë²”ìœ„ë¥¼ ë²—ì–´ë‚¬ìŠµë‹ˆë‹¤.");
 
     return true;
 }

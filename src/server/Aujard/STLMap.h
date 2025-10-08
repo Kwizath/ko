@@ -1,4 +1,4 @@
-// STLMap.h: interface for the CSTLMap class.
+﻿// STLMap.h: interface for the CSTLMap class.
 //
 //////////////////////////////////////////////////////////////////////
 

@@ -1,4 +1,4 @@
-// PortalFactory.h: interface for the CPortalFactory class.
+﻿// PortalFactory.h: interface for the CPortalFactory class.
 //
 //////////////////////////////////////////////////////////////////////
 

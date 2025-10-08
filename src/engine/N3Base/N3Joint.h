@@ -1,4 +1,4 @@
-// N3Joint.h: interface for the CN3Joint class.
+﻿// N3Joint.h: interface for the CN3Joint class.
 //
 //////////////////////////////////////////////////////////////////////
 

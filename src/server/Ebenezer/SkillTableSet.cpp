@@ -1,4 +1,4 @@
-// SkillTableSet.cpp : implementation file
+﻿// SkillTableSet.cpp : implementation file
 //
 
 #include "StdAfx.h"

@@ -1,4 +1,4 @@
-// UdpSocket.h: interface for the CUdpSocket class.
+﻿// UdpSocket.h: interface for the CUdpSocket class.
 //
 //////////////////////////////////////////////////////////////////////
 

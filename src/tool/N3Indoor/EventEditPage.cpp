@@ -1,4 +1,4 @@
-// EventEditPage.cpp : implementation file
+﻿// EventEditPage.cpp : implementation file
 //
 
 #include "StdAfx.h"

@@ -1,4 +1,4 @@
-// CharBaseAbilityTableSet.cpp : implementation file
+﻿// CharBaseAbilityTableSet.cpp : implementation file
 //
 
 #include "StdAfx.h"

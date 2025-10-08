@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // DlgSowSeed.h : header file
 //

@@ -1,4 +1,4 @@
-// N3GameBase.h: interface for the CN3GameBase class.
+﻿// N3GameBase.h: interface for the CN3GameBase class.
 //
 //////////////////////////////////////////////////////////////////////
 

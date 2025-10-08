@@ -1,4 +1,4 @@
-// N3SndObj.h: interface for the CN3SndObj class.
+﻿// N3SndObj.h: interface for the CN3SndObj class.
 //
 //////////////////////////////////////////////////////////////////////
 

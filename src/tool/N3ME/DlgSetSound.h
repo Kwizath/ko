@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // DlgSetSound.h : header file
 //

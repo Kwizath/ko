@@ -1,4 +1,4 @@
-// N3JpegFile.cpp: implementation of the CN3JpegFile class.
+﻿// N3JpegFile.cpp: implementation of the CN3JpegFile class.
 //
 //////////////////////////////////////////////////////////////////////
 

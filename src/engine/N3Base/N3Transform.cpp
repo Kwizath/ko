@@ -1,4 +1,4 @@
-// N3Obj.cpp: implementation of the CN3 class.
+﻿// N3Obj.cpp: implementation of the CN3 class.
 //
 //////////////////////////////////////////////////////////////////////
 #include "StdAfx.h"

@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // CharBaseAbilityTableSet.h : header file
 //

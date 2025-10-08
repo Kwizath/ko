@@ -1,4 +1,4 @@
-// N3AnimKey.cpp: implementation of the CN3AnimKey class.
+﻿// N3AnimKey.cpp: implementation of the CN3AnimKey class.
 //
 //////////////////////////////////////////////////////////////////////
 #include "StdAfx.h"

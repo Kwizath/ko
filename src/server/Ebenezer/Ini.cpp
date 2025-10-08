@@ -1,4 +1,4 @@
-// Ini.cpp: implementation of the CIni class.
+﻿// Ini.cpp: implementation of the CIni class.
 //
 //////////////////////////////////////////////////////////////////////
 

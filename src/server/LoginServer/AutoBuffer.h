@@ -1,4 +1,4 @@
-// AutoBuffer.h: interface for the CAutoBuffer class.
+﻿// AutoBuffer.h: interface for the CAutoBuffer class.
 //
 ////////////////////////////////////////////////////////////////////////////////
 //  Copyright (C) 2000 Tadeusz Dracz.

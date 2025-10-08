@@ -1,4 +1,4 @@
-// PortalWall.h: interface for the CPortalWall class.
+﻿// PortalWall.h: interface for the CPortalWall class.
 //
 //////////////////////////////////////////////////////////////////////
 

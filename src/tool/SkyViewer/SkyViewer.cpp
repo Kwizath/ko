@@ -1,4 +1,4 @@
-// SkyViewer.cpp : Defines the class behaviors for the application.
+﻿// SkyViewer.cpp : Defines the class behaviors for the application.
 //
 
 #include "StdAfx.h"

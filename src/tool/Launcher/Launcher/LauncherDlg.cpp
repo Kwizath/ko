@@ -1,4 +1,4 @@
-// LauncherDlg.cpp : implementation file
+﻿// LauncherDlg.cpp : implementation file
 //
 
 #include "StdAfx.h"

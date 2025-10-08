@@ -1,4 +1,4 @@
-// BattleSet.cpp : implementation file
+﻿// BattleSet.cpp : implementation file
 //
 
 #include "StdAfx.h"

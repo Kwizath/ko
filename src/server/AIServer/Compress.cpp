@@ -1,4 +1,4 @@
-// Compress.cpp : implementation of the CMainFrame class
+﻿// Compress.cpp : implementation of the CMainFrame class
 //
 #include "StdAfx.h"
 //#include "AIServer.h"

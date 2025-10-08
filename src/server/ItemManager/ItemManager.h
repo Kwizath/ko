@@ -1,4 +1,4 @@
-// ItemManager.h : main header file for the ITEMMANAGER application
+﻿// ItemManager.h : main header file for the ITEMMANAGER application
 //
 
 #pragma once

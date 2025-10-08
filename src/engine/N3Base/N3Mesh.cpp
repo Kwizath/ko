@@ -1,4 +1,4 @@
-// N3Mesh.cpp: implementation of the C3DObject class.
+Ôªø// N3Mesh.cpp: implementation of the C3DObject class.
 //
 //////////////////////////////////////////////////////////////////////
 #include "StdAfx.h"
@@ -296,7 +296,7 @@ void CN3Mesh::Create_Axis(float fLength) {
 
     this->FindMinMax();
 
-    // x √‡
+    // x Ï∂ï
     //    m_pVertices[0].Set(-fLength/2.0f, 0, 0, 0, 1, 0, 0, 0);
     //    m_pVertices[1].Set( fLength/2.0f, 0, 0, 0, 1, 0, 0, 0);
     //    m_pVertices[2] = m_pVertices[1];

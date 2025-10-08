@@ -1,4 +1,4 @@
-// ServerInfoViewer.h : main header file for the SERVERINFOVIEWER application
+﻿// ServerInfoViewer.h : main header file for the SERVERINFOVIEWER application
 //
 
 #pragma once

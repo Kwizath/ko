@@ -1,4 +1,4 @@
-// N3Camera.h: interface for the CN3Camera class.
+﻿// N3Camera.h: interface for the CN3Camera class.
 //
 //////////////////////////////////////////////////////////////////////
 

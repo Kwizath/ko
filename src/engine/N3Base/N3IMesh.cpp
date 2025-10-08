@@ -1,4 +1,4 @@
-// N3MeshIndexed: implementation of the CN3IMesh class.
+﻿// N3MeshIndexed: implementation of the CN3IMesh class.
 //
 //////////////////////////////////////////////////////////////////////
 #include "StdAfx.h"

@@ -1,4 +1,4 @@
-// LauncherDlg.h : header file
+﻿// LauncherDlg.h : header file
 //
 
 #pragma once

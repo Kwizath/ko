@@ -1,4 +1,4 @@
-// UINotice.cpp: implementation of the CUINotice class.
+﻿// UINotice.cpp: implementation of the CUINotice class.
 //
 //////////////////////////////////////////////////////////////////////
 

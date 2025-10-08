@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // ProgressBar.h : header file
 //

@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // DlgSaveNPCPath.h : header file
 //

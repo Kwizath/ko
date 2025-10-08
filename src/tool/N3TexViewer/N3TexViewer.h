@@ -1,4 +1,4 @@
-// N3TexViewer.h : main header file for the N3TEXVIEWER application
+﻿// N3TexViewer.h : main header file for the N3TEXVIEWER application
 //
 
 #pragma once

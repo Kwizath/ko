@@ -1,4 +1,4 @@
-// PvsBase.h: interface for the CPvsBase class.
+﻿// PvsBase.h: interface for the CPvsBase class.
 //
 //////////////////////////////////////////////////////////////////////
 

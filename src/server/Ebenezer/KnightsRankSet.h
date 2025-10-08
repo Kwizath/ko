@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // KnightsRankSet.h : header file
 //

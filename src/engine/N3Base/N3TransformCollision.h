@@ -1,4 +1,4 @@
-// N3TransformCollision.h: interface for the CN3TransformCollision class.
+﻿// N3TransformCollision.h: interface for the CN3TransformCollision class.
 //
 //////////////////////////////////////////////////////////////////////
 

@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // ItemTableSet.h : header file
 //

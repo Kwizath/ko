@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // DlgChangeImage.h : header file
 //

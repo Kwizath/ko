@@ -1,4 +1,4 @@
-// NpcItem.h: interface for the CNpcItem class.
+﻿// NpcItem.h: interface for the CNpcItem class.
 //
 //////////////////////////////////////////////////////////////////////
 

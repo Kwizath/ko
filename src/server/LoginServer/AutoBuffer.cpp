@@ -1,4 +1,4 @@
-// AutoBuffer.cpp: implementation of the CAutoBuffer class.
+﻿// AutoBuffer.cpp: implementation of the CAutoBuffer class.
 //
 ////////////////////////////////////////////////////////////////////////////////
 //  Copyright (C) 2000 Tadeusz Dracz.

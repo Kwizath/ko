@@ -1,4 +1,4 @@
-// N3ME.h : main header file for the N3ME application
+﻿// N3ME.h : main header file for the N3ME application
 //
 
 #pragma once

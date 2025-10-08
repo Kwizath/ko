@@ -1,4 +1,4 @@
-// UserRegenPage.cpp : implementation file
+﻿// UserRegenPage.cpp : implementation file
 //
 
 #include "StdAfx.h"

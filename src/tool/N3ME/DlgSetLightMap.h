@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 // DlgSetLightMap.h : header file
 //
